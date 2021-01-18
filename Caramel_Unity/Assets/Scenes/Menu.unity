@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 91447c015fb3fef46ac2d3db072814ef, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  sceneName: Team
+  sceneName: Controls
 --- !u!4 &169197453
 Transform:
   m_ObjectHideFlags: 0
