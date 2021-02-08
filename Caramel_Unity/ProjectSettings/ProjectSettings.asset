@@ -12,14 +12,14 @@ PlayerSettings:
   targetDevice: 2
   useOnDemandResources: 0
   accelerometerFrequency: 60
-  companyName: DefaultCompany
-  productName: Caramel_Unity
-  defaultCursor: {fileID: 2800000, guid: 0144c93eadb31424c9613fb2693e92f5, type: 3}
+  companyName: caramel
+  productName: Carnet de voyage
+  defaultCursor: {fileID: 2800000, guid: a93ee8a0c5c38b14bba7321176fa6647, type: 3}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
   m_ShowUnitySplashScreen: 1
   m_ShowUnitySplashLogo: 1
-  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenOverlayOpacity: 0.5
   m_SplashScreenAnimation: 1
   m_SplashScreenLogoStyle: 0
   m_SplashScreenDrawMode: 0
@@ -564,10 +564,10 @@ PlayerSettings:
   ps4IncludedModules: []
   ps4attribVROutputEnabled: 0
   monoEnv: 
-  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: 21238c49d0caa0749bac3ad1e4c30107,
+  splashScreenBackgroundSourceLandscape: {fileID: 21300000, guid: fc2820c79a835924cbfb6c5949cd6183,
     type: 3}
   splashScreenBackgroundSourcePortrait: {fileID: 0}
-  blurSplashScreenBackground: 1
+  blurSplashScreenBackground: 0
   spritePackerPolicy: 
   webGLMemorySize: 16
   webGLExceptionSupport: 1
